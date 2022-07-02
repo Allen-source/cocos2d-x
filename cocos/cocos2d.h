@@ -306,7 +306,7 @@ THE SOFTWARE.
 #include "3d/CCTerrain.h"
 
 // vr
-#include "vr/CCVRGenericRenderer.h"
+// #include "vr/CCVRGenericRenderer.h"
 
 
 // Deprecated
